@@ -1,0 +1,8 @@
+{
+  "name": "Remix GGO Football - Play Store \u0026 Real Game",
+  "description": "Download and play GGO Football, the AI robot soccer game. Authentic Google Play Store experience with real interactive matches, super shots, and full download management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
